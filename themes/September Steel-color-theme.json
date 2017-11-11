@@ -175,7 +175,7 @@
       "name": "TemplateString",
       "scope": "string.template.js",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#a9c378"
       }
     },
     {
