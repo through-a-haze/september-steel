@@ -369,10 +369,16 @@
     },
     {
       "name": "Tag attribute",
-      "scope": "entity.other.attribute-name",
+      "scope": "entity.other.attribute-name.html",
       "settings": {
         "foreground": "#e5c07b",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.class.css",
+      "settings": {
+        "foreground": "#e5c07b"
       }
     },
     {
