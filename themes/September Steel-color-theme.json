@@ -189,7 +189,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#d27de5"
+        "foreground": "#e5c07b"
       }
     },
     {
